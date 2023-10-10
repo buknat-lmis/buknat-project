@@ -48,7 +48,7 @@
 
 <body class="g-sidenav-show   bg-gray-100">
     <div class="min-height-300 bg-primary position-absolute w-100"
-    style="background-image: url('https://media.licdn.com/dms/image/C561BAQGoO3WWkMBcCQ/company-background_10000/0/1632665721223?e=1696780800&v=beta&t=IDqs6zeQ8Pa5WlmHEiIY3C2ukJC7wDkhY9gy_OkMR1M'); background-position-y: 50%;">
+    style="background-image: url('https://media.licdn.com/dms/image/C561BAQGoO3WWkMBcCQ/company-background_10000/0/1632665721223?e=1697076000&v=beta&t=h3LA7On_Cw3gF3-3YyhhP5Lq32lACpGQzJQpVqHtXmM'); background-position-y: 50%;">
         <span class=""></span>
     </div>
 
